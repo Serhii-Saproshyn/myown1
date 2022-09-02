@@ -1,0 +1,16 @@
+img {
+    width: 250px;
+    border: green 8px solid;
+}
+
+.main {
+    color: black;
+    background-color: pink;
+    font-size: 30px;
+    border: black 2px solid;
+}
+
+.myborder {
+    border: pink 20px solid;
+    width: 80px;
+}
